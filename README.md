@@ -1,3 +1,3 @@
-# plugin-helo
+# Bellows Helo Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/helo](https://bellows.dev/docs/plugins/helo)
